@@ -1,0 +1,63 @@
+{
+  "name": "dark-explorers",
+  "title": "Dark Explorers.",
+  "description": "",
+  "author": "Elfonochasis",
+  "authors": [
+    {
+      "name": "Elfonochasis",
+      "discord": "Elfonochasis#0671"
+    }
+  ],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Fantasma. Características",
+      "type": "Item",
+      "name": "fantasma-caracteristicas",
+      "path": "packs/fantasma-caracteristicas.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/home/foundry/foundryuserdata/Data/worlds/dark-explorers/packs/fantasma-caracteristicas.db"
+    },
+    {
+      "label": "Fantasma. Pruebas",
+      "type": "Item",
+      "name": "fantasma-pruebas",
+      "path": "packs/fantasma-pruebas.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/home/foundry/foundryuserdata/Data/worlds/dark-explorers/packs/fantasma-pruebas.db"
+    },
+    {
+      "label": "Investigador. Gadgets",
+      "type": "Item",
+      "name": "investigador-gadgets",
+      "path": "packs/investigador-gadgets.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "manifest": "https://raw.githubusercontent.com/foundryvttes/dark-explorers-sandbox/main/world.json",
+  "download": "https://codeload.github.com/foundryvttes/dark-explorers-sandbox/zip/main",
+  "background": "worlds/dark-explorers/portada.jpg",
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.13.4"
+}

@@ -1,0 +1,22 @@
+{"name":"Normales","type":"Item","parent":"uPDnBKUXqnXBf9xR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"2cIuTclbuxaROsul"}
+{"name":"Características","type":"Item","parent":"cUU8aK4mtbfkppYw","sorting":"a","sort":0,"color":null,"flags":{},"_id":"49Nd14p3GQAJxa3f"}
+{"name":"Circustanciales","type":"Item","parent":"zu0crJvt5Bm7ehJ7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"52KR1NSAE3RAMPP8"}
+{"_id":"96jqlacqrpwDVtz7","name":"General","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"BWpJQoKsLeWoyQlG","name":"NO TOCAR. Plantilla","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#ff0000","flags":{}}
+{"name":"Concluyentes","type":"Item","parent":"zu0crJvt5Bm7ehJ7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EVtfDBLvOAAIyCnZ"}
+{"_id":"Htq9mnD4vN4gn7oA","name":"Compendio. Fantasma. Caract.","type":"Item","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"Extra","type":"Item","parent":"uPDnBKUXqnXBf9xR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IoNldhbsejEpqOoU"}
+{"_id":"Mkg1UnwoP8b4Cron","name":"Stats","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"Mpu5XrtP5gmcUl06","name":"NO TOCAR. Plantillas","type":"Item","parent":null,"sorting":"m","sort":700000,"color":"#ff0000","flags":{}}
+{"name":"Investigador","type":"Item","parent":"Mpu5XrtP5gmcUl06","sorting":"a","sort":0,"color":null,"flags":{},"_id":"SaTomuoTPR3HZztt"}
+{"_id":"ULKgiscSMvaQ6FHH","name":"Inventario","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"US7l9dtZhA8eq4ZK","name":"Canal","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"ZxWm1ChNwp1XcnWI","name":"Arquetipo","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Fantasma","type":"Item","parent":"Mpu5XrtP5gmcUl06","sorting":"a","sort":0,"color":null,"flags":{},"_id":"cUU8aK4mtbfkppYw"}
+{"name":"Influencia","type":"Item","parent":"cUU8aK4mtbfkppYw","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hHOEu55Eo1M0Icod"}
+{"name":"Fases","type":"Item","parent":"cUU8aK4mtbfkppYw","sorting":"a","sort":0,"color":null,"flags":{},"_id":"nxybKuZauCTxcHcn"}
+{"name":"Pruebas","type":"Item","parent":"cUU8aK4mtbfkppYw","sorting":"a","sort":0,"color":null,"flags":{},"_id":"oRiP1ShXe8nDGipX"}
+{"_id":"pGcFriEzq5Ha0qC5","name":"Objeto","type":"Item","parent":"Mpu5XrtP5gmcUl06","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Tirada Diálogo","type":"Item","parent":"SaTomuoTPR3HZztt","sorting":"a","sort":0,"color":null,"flags":{},"_id":"sWVhH8Jn6gpcgkjF"}
+{"_id":"uPDnBKUXqnXBf9xR","name":"Compendio. Equipo","type":"Item","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"zu0crJvt5Bm7ehJ7","name":"Compendio. Fantasma. Pruebas","type":"Item","parent":null,"sorting":"a","sort":900000,"color":null,"flags":{}}
