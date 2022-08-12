@@ -52,7 +52,7 @@
   "socket": false,
   "protected": false,
   "manifest": "https://raw.githubusercontent.com/foundryvttes/dark-explorers-sandbox/main/world.json",
-  "download": "https://codeload.github.com/foundryvttes/dark-explorers-sandbox/zip/main",
+  "download": "https://github.com/foundryvttes/dark-explorers-sandbox/archive/refs/tags/v1.zip",
   "background": "worlds/dark-explorers/portada.jpg",
   "coreVersion": "9.269",
   "resetKeys": false,
