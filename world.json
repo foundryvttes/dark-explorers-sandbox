@@ -24,8 +24,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "Item",
-      "private": false,
-      "absPath": "/home/foundry/foundryuserdata/Data/worlds/dark-explorers/packs/fantasma-caracteristicas.db"
+      "private": false
     },
     {
       "label": "Fantasma. Pruebas",
@@ -35,8 +34,7 @@
       "system": "sandbox",
       "package": "world",
       "entity": "Item",
-      "private": false,
-      "absPath": "/home/foundry/foundryuserdata/Data/worlds/dark-explorers/packs/fantasma-pruebas.db"
+      "private": false
     },
     {
       "label": "Investigador. Gadgets",
